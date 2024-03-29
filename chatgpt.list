@@ -1,3 +1,12 @@
 DOMAIN-SUFFIX,openai.com
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+# payment
+DOMAIN-SUFFIX,stripe.com
+# register
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
